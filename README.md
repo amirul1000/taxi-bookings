@@ -3,6 +3,12 @@
 Taxi Bookings Management System in CodeIgniter with Calendar Event,DatePicker, TimePicker
 =========================================================================================
 
+Dashboard - Calender Event
+Staff -Admin,Office,Driver
+Bookings-Origin to Destination
+Customers - Name,Address
+
+
 Youtube Tutorial : https://youtu.be/cXWmQxIijlM
 
 Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
