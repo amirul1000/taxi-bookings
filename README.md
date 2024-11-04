@@ -8,6 +8,8 @@ Staff -Admin,Office,Driver
 Bookings-Origin to Destination
 Customers - Name,Address
 
+<img src="1.png">
+<img src="2.png">
 
 Youtube Tutorial : https://youtu.be/cXWmQxIijlM
 
